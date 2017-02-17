@@ -438,7 +438,7 @@
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tedx.tedxhub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ted.tedxhub;
 				PRODUCT_NAME = Communifire;
 				PROVISIONING_PROFILE = "";
 			};
@@ -455,7 +455,7 @@
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tedx.tedxhub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ted.tedxhub;
 				PRODUCT_NAME = Communifire;
 				PROVISIONING_PROFILE = "";
 			};
