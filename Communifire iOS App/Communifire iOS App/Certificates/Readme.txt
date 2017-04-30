@@ -28,3 +28,4 @@ File: Communifire_App_Development_Profile.mobileprovision
 Detail: Provision Profile for xcode
 
 
+TEDx_Live_Communifire.iOS.App.Certificate.p12 - its password is tedxhub and this certificate is being used for tedxhub.ted.com (the live site).
