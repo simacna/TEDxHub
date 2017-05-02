@@ -230,6 +230,7 @@
 					E27DBAAB1A6BEE0600E1C630 = {
 						CreatedOnToolsVersion = 6.1;
 						DevelopmentTeam = Z5ZA8RGTF2;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -435,12 +436,14 @@
 				CODE_SIGN_ENTITLEMENTS = Communifire.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ted.tedxhub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tedx.axero.communifire;
 				PRODUCT_NAME = Communifire;
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -452,12 +455,14 @@
 				CODE_SIGN_ENTITLEMENTS = Communifire.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ted.tedxhub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tedx.axero.communifire;
 				PRODUCT_NAME = Communifire;
 				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};

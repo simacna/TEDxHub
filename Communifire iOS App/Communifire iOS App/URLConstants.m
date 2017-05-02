@@ -11,7 +11,7 @@
 
 @implementation URLConstants
 
-NSString *const DEFAULT_DOMAIN  = @"tedxhub.ted.com";
+NSString *const DEFAULT_DOMAIN  = @"https://tedxclone52.communifire.com";
 
 NSString *const MYACCOUNT_URL  = @"/myaccount";
 

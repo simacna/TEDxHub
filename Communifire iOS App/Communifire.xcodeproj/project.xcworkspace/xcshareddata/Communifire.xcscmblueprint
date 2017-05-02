@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0742E9C85FEBC7E2254EF5F574F516566D0793EA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "62D1DDA935DE9F9D4131D1413C39B03841E22DB5" : 9223372036854775807,
+    "0742E9C85FEBC7E2254EF5F574F516566D0793EA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3BF71B2-FB83-40DC-A8C4-B8FAAABD2F5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "62D1DDA935DE9F9D4131D1413C39B03841E22DB5" : "iOS-Communifire-App\/",
+    "0742E9C85FEBC7E2254EF5F574F516566D0793EA" : "TEDxHub_master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Communifire",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Communifire iOS App\/Communifire.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/simacna\/TEDxHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0742E9C85FEBC7E2254EF5F574F516566D0793EA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/axerosolutions\/iOS-Communifire-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62D1DDA935DE9F9D4131D1413C39B03841E22DB5"
+    }
+  ]
+}
