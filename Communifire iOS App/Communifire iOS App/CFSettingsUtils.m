@@ -44,8 +44,10 @@
 }
 
 + (BOOL) isDeviceTokenSentToServer {
-    CFSettings *cfSettings = [Utils getCFSettings];
-    return cfSettings.IsDeviceTokenSentToServer;
+    return true;
+    
+//    CFSettings *cfSettings = [Utils getCFSettings];
+//    return cfSettings.IsDeviceTokenSentToServer;
     
 }
 

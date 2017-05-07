@@ -59,6 +59,8 @@ WKWebView *webView;
     }
     
     [self loadCFCommunityWebsite];
+    
+
 }
 
 // Load CF Web view
@@ -95,6 +97,10 @@ WKWebView *webView;
     
     // Check if the device token is sent to server for logged in user
     [CFSettingsUtils checkDeviceTokenStatus];
+    
+    NSString* javascriptString = [NSString stringWithFormat: @"saveDeviceToken('%@')", [CFSettingsUtils getDeviceToken]];
+
+    [webView  evaluateJavaScript:javascriptString completionHandler:nil];
 }
 
 - (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary<NSString *,id> *)change context:(void *)context {
