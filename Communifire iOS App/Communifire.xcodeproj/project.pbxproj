@@ -229,7 +229,7 @@
 				TargetAttributes = {
 					E27DBAAB1A6BEE0600E1C630 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = Z5ZA8RGTF2;
+						DevelopmentTeam = 4Z6E862WH7;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -435,6 +435,7 @@
 				CODE_SIGN_ENTITLEMENTS = Communifire.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 4Z6E862WH7;
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -452,6 +453,7 @@
 				CODE_SIGN_ENTITLEMENTS = Communifire.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 4Z6E862WH7;
 				INFOPLIST_FILE = "Communifire iOS App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
